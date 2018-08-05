@@ -1,0 +1,9 @@
+
+skinparam SequenceActorBackgroundColor lime
+skinparam SequenceActorborderColor #abcdf
+
+skinparam Shadwing false
+
+(root) as r
+(level1) as l1
+(level2) as l2

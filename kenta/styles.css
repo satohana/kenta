@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+body, div, p, h1, h2, h3, h4, h5 {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+* header
+*/
+.element0{
+  background-image: url('sea.jpg');
+  background-repeat: no-repeat;
+  color: white;
+/*  width: 1280px; */
+  height: 442px;/* 変更しない */
+  padding: 20px 10px 10px 50px;/* 変更しない */
+}
+
+/*
+* main & sidebar (wrapper)
+*/
+.element1{
+    background-color: white;
+    color: midnightblue;
+/*  background-color: rgb(245, 245, 242); */
+/*  width: 1000px; */
+  height: 216px;
+  padding: 30px 20px 10px 50px;/* 変更しない */
+}
+
+.element1 p {
+  margin: 20px 0 20px 0;
+}
+
+.element2{
+  color: white;
+/*  width: 280px; */
+  height: 216px;
+  padding: 30px 30px 30px 50px;/* 変更しない */
+}
+
+.element3{
+  color: white;
+/*  width: 1280px; */
+  height: 216px;/* 変更しない */
+  padding: 20px 10px 10px 50px;/* 変更しない */
+}
+
+.element4{
+  background-color: white;
+/*  background-color: rgb(245, 245, 242);*/
+  color: midnightblue;
+/*  width: 1280px; */
+  height: 216px;/* 変更しない */
+  padding: 20px 10px 10px 50px;/* 変更しない */
+}
+
+.element2 img:hover {
+   opacity: 0.5;
+}
+
+.element3 img:hover {
+   opacity: 0.5;
+}
+
+.element6{
+  background-color: white;
+  color: midnightblue;
+}
+/*
+* footer
+*/
+.element5 {
+  background-color: white;
+  color: midnightblue;
+/*  width: 1280px; */
+  height: 150px;/* 変更しない */
+  text-align: center;
+  padding: 60px 10px 20px 10px;/* 変更しない */
+}
